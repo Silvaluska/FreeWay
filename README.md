@@ -20,4 +20,6 @@
  - A cada vez que a vaca conseguir atravessar a estrada será adicionado 1 ponto e a vaca voltará ao ponto de origem
  - Se a vaca colidir com qualquer um dos carros, a vaca será posicionada de volta a origem e perderá 1 ponto.
  ### Exemplo
+ 
+![image](https://user-images.githubusercontent.com/113150953/192403070-0f9e6c1f-54fc-4f07-b3ce-f943c914e9e4.png)
 
