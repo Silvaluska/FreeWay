@@ -22,5 +22,5 @@
 
  - [FreeWay](https://editor.p5js.org/lucas030894/full/t2sKu0xes)
 
-  <img src="https://user-images.githubusercontent.com/113150953/192403070-0f9e6c1f-54fc-4f07-b3ce-f943c914e9e4.png" alt="Capa FreeWay" width="400"/>
+  <center><img src="https://user-images.githubusercontent.com/113150953/192403070-0f9e6c1f-54fc-4f07-b3ce-f943c914e9e4.png" alt="Capa FreeWay" width="400"/><center>
 
