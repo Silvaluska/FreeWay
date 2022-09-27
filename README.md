@@ -1,2 +1,18 @@
 # FreeWay
- Adaptação do Jogo FreeWay em JavaSrcript
+ ## O que é FreeWay?
+ Em Freeway , o jogador controlava uma galinha que deveria atravessar uma rodovia cheia de automóveis e de caminhões, com mais de seis pistas. Um jogo simples lançado para o Atari 2600 em 1981.
+ ## Historia
+ - O jogo teve o nome de Bloody Human Freeway na sua fase de protótipo[1], nesta versão quando o jogador era atingido, seu sprite se tornava uma grande poça vermelha, mas como video-game era considerado um nicho juvenil, o jogo foi adaptado para esconder a violência.
+
+ - De acordo com David Crane, ele teve a ideia para a Freeway ao observar um homem tentando cruzar a Lake Shore Drive durante o tráfego da hora do rush, enquanto participava do Consumer Electronic Show de Chicago.
+
+ - Freeway teve alguns cópias não oficiais em vários países, no Brasil teve um clone chamado BR-101.
+ ## Minha versão
+ Esta versão de FreeWay tem o visual completamente diferente do original, ao inves de uma galinha temos com pernoagem principal uma vaca, entretanto a jogabilidade é a basicamente a mesma.
+ ### Jogabilidade
+ - O jogo consiste basicamente em atravessar a vaca até o outro lado da pista disviando dos carros que passam pelas vias de trânsito.
+ - Você pode usar as setas ⬆⬇⬅➡ para movimentar a vaca. 
+ - A cada vez que a vaca conseguir atravessar a estrada será adicionado 1 ponto e a vaca voltará ao ponto de origem
+ - Se a vaca colidir com qualquer um dos carros, a vaca será posicionada de volta a origem e perderá 1 ponto.
+ ### Exemplo
+
