@@ -2,7 +2,7 @@
  ## O que é FreeWay?
  Em Freeway , o jogador controlava uma galinha que deveria atravessar uma rodovia cheia de automóveis e de caminhões, com mais de seis pistas. Um jogo simples lançado para o Atari 2600 em 1981.
  
- ![image](https://user-images.githubusercontent.com/113150953/192402811-d0e95cf3-dbd5-436d-9ebe-5b156282bb30.png)
+ ![image](https://user-images.githubusercontent.com/113150953/192402811-d0e95cf3-dbd5-436d-9ebe-5b156282bb30.png = 250px)
  ![image](https://user-images.githubusercontent.com/113150953/192402928-2d8fc07f-31c8-4dac-bdfc-ecf5c06af1f6.png)
 
 
