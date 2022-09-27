@@ -19,8 +19,8 @@
  - Se a vaca colidir com qualquer um dos carros, a vaca será posicionada de volta a origem e perderá 1 ponto.
  ### Exemplo
  Você pode testar a minha versão do jogo de FreeWay atráves do link abaixo.
- [FreeWay](https://editor.p5js.org/lucas030894/full/t2sKu0xes)
- - https://editor.p5js.org/lucas030894/full/t2sKu0xes
+
+ - [FreeWay](https://editor.p5js.org/lucas030894/full/t2sKu0xes)
 
   <img src="https://user-images.githubusercontent.com/113150953/192403070-0f9e6c1f-54fc-4f07-b3ce-f943c914e9e4.png" alt="Capa FreeWay" width="400"/>
 
