@@ -1,5 +1,5 @@
 # FreeWay
-[Issues](https://img.shields.io/github/issues/Silvaluska/FreeWay)
+![Issues](https://img.shields.io/github/issues/Silvaluska/FreeWay)
  ## O que é FreeWay?
  Em Freeway , o jogador controlava uma galinha que deveria atravessar uma rodovia cheia de automóveis e de caminhões, com mais de seis pistas. Um jogo simples lançado para o Atari 2600 em 1981.
 
