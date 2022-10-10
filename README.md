@@ -18,6 +18,8 @@
  - Você pode usar as setas ⬆⬇⬅➡ para movimentar a vaca. 
  - A cada vez que a vaca conseguir atravessar a estrada será adicionado 1 ponto e a vaca voltará ao ponto de origem
  - Se a vaca colidir com qualquer um dos carros, a vaca será posicionada de volta a origem e perderá 1 ponto.
+ 
+ 
 
  ### Demonstração da Aplicação
  Você pode testar a minha versão do jogo de FreeWay atráves do link abaixo.
