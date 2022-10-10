@@ -37,4 +37,5 @@ https://user-images.githubusercontent.com/113150953/194786342-968a8560-fb04-4c20
 
 ### Licença
 Está versão do FreeWay é possui a [MIT license](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT).
+
 Copyright ©️ 2022 - FreeWay By Lucas Silva
