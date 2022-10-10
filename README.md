@@ -19,7 +19,7 @@
  - A cada vez que a vaca conseguir atravessar a estrada será adicionado 1 ponto e a vaca voltará ao ponto de origem
  - Se a vaca colidir com qualquer um dos carros, a vaca será posicionada de volta a origem e perderá 1 ponto.
  
- 
+https://user-images.githubusercontent.com/113150953/194786342-968a8560-fb04-4c20-9010-01c640799375.mp4
 
  ### Demonstração da Aplicação
  Você pode testar a minha versão do jogo de FreeWay atráves do link abaixo.
