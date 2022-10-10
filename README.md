@@ -13,12 +13,13 @@
  - Freeway teve alguns cópias não oficiais em vários países, no Brasil teve um clone chamado BR-101.
  ## Minha versão
  Esta versão de FreeWay tem o visual completamente diferente do original, ao inves de uma galinha temos com pernoagem principal uma vaca, entretanto a jogabilidade é a basicamente a mesma.
- ### Jogabilidade
+ ### Funcionalidades e Demonstração da Aplicação
  - O jogo consiste basicamente em atravessar a vaca até o outro lado da pista disviando dos carros que passam pelas vias de trânsito.
  - Você pode usar as setas ⬆⬇⬅➡ para movimentar a vaca. 
  - A cada vez que a vaca conseguir atravessar a estrada será adicionado 1 ponto e a vaca voltará ao ponto de origem
  - Se a vaca colidir com qualquer um dos carros, a vaca será posicionada de volta a origem e perderá 1 ponto.
- ### Exemplo
+
+ ### Demonstração da Aplicação
  Você pode testar a minha versão do jogo de FreeWay atráves do link abaixo.
 
  - [FreeWay](https://editor.p5js.org/lucas030894/full/t2sKu0xes)
