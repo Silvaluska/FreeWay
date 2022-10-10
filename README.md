@@ -12,7 +12,7 @@
 
  - Freeway teve alguns cópias não oficiais em vários países, no Brasil teve um clone chamado BR-101.
  ## Minha versão
- Esta versão de FreeWay tem o visual completamente diferente do original, ao inves de uma galinha temos com pernoagem principal uma vaca, entretanto a jogabilidade é a basicamente a mesma.
+ Esta versão de FreeWay tem o visual completamente diferente do original, ao inves de uma galinha temos com personagem principal uma vaca, entretanto a jogabilidade é a basicamente a mesma.
  ### Funcionalidades e Demonstração da Aplicação
  - O jogo consiste basicamente em atravessar a vaca até o outro lado da pista disviando dos carros que passam pelas vias de trânsito.
  - Você pode usar as setas ⬆⬇⬅➡ para movimentar a vaca. 
