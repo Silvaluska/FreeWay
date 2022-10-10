@@ -21,10 +21,16 @@
  
 https://user-images.githubusercontent.com/113150953/194786342-968a8560-fb04-4c20-9010-01c640799375.mp4
 
- ### Demonstração da Aplicação
- Você pode testar a minha versão do jogo de FreeWay atráves do link abaixo.
+ ### Acesso ao projeto
+ Você pode testar a minha versão do jogo de FreeWay atráves do link abaixo. O jogo está rodando direto na plataforma do site P5 JS Editor onde ele foi desenvolvido e está aberto para qualquer pessoa poder jogar.
 
  - [FreeWay](https://editor.p5js.org/lucas030894/full/t2sKu0xes)
 
-  <center><img src="https://user-images.githubusercontent.com/113150953/192403070-0f9e6c1f-54fc-4f07-b3ce-f943c914e9e4.png" alt="Capa FreeWay" width="400"/><center>
+### Tecnologias utilizadas
+- Html 5
+- CSS 3
+- JavaScript
 
+### Pessoas Contribuidoras
+| [<img src="https://avatars.githubusercontent.com/u/113150953?v=4" width=115><br><sub>Lucas Silva</sub>](https://github.com/Silvaluska) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails)
+| :---: | :---:
