@@ -5,7 +5,7 @@
 
  <img src="https://user-images.githubusercontent.com/113150953/192402811-d0e95cf3-dbd5-436d-9ebe-5b156282bb30.png" alt="Capa FreeWay" width="200"/> <img src="https://user-images.githubusercontent.com/113150953/192402928-2d8fc07f-31c8-4dac-bdfc-ecf5c06af1f6.png" alt="Capa FreeWay" width="390"/>
 
- ### Historia
+ ## Historia
  - O jogo teve o nome de Bloody Human Freeway na sua fase de protótipo[1], nesta versão quando o jogador era atingido, seu sprite se tornava uma grande poça vermelha, mas como video-game era considerado um nicho juvenil, o jogo foi adaptado para esconder a violência.
 
  - De acordo com David Crane, ele teve a ideia para a Freeway ao observar um homem tentando cruzar a Lake Shore Drive durante o tráfego da hora do rush, enquanto participava do Consumer Electronic Show de Chicago.
